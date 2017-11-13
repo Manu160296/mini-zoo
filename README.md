@@ -1,4 +1,4 @@
-## Ejercicio Menu Drop Down:
+## Ejercicio Mini Zoo:
 ***
 ### Descripción del ejercicio:
 ##### Esta página permite elegir efectos como sepia, blanco y negro e invertir colores que deseamos que obtengan nuestras imágenes. Deberá replicarse usando DOM y CSS.Veamos como debe quedar la página...
